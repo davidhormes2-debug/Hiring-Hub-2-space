@@ -1,0 +1,17 @@
+{
+  "name": "The Metrics - Remote Work Opportunity",
+  "short_name": "The Metrics",
+  "description": "Remote Product Insights Upload Associate",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
